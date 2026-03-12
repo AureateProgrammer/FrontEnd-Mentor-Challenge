@@ -56,6 +56,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
+Did not learn to much but it was a fun exercise that helped me make a more modern looking CSS.
+
 To see how you can add code snippets, see below:
 
 ```html
@@ -94,9 +96,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
 
 - What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
+- Technically I wrote the code myself but co-pilot definity helped my workflow.
 - How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
+- Auto-Correct 
 - What worked well? What didn't?
-
+It went Really smooth nothing was wrong. 
 **Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
 
 ## Author
